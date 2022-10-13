@@ -12,6 +12,13 @@ body{
     
 }
 
+
+p{
+    display: none;
+}
+
+
+
 .bodyFake{
     top: 0;
     left: 0;
