@@ -114,11 +114,17 @@ p{
     .bodyFake{
         display: none;
     }
+    p{
+        display: flex;
+    }
 }
 
 
 @media screen and (max-height: 700px){
     .bodyFake{
         display: none;
+    }
+    p{
+        display: flex;
     }
 }
